@@ -199,8 +199,8 @@ print(f"{num1} / {num2} = {calculator.divide(num1, num2)}")
 
 ## 🤝 Collaborators
 
-- [Govind](`govind02420`)
-- [Astha](``Astha0828)
+- [Govind](https://github.com/govind02420/)
+- [Astha](https://github.com/Astha0828)
 
 ---
 
